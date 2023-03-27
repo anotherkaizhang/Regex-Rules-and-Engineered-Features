@@ -44,4 +44,4 @@ Gini impurity: the probability of a data sample is labeled wrong if it is random
 
 Diversity index: If a column has high diversity, meaning that the values in that column are unique or distinct from one another, it may indicate that the column contains sensitive information, such as a medical record number or an encounter ID.
 
-Precision (min, max, mean, var, std, sample size, margin of error, confidence level)_: Statistics with respect to the number of digits in a number for each sample, because sensitive attributes may have a uniform number of digits, e.g., medical record number.
+Precision (min, max, mean, var, std, sample size, margin of error, confidence level): Statistics with respect to the number of digits in a number for each sample, because sensitive attributes may have a uniform number of digits, e.g., medical record number.
